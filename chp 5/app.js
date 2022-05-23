@@ -146,3 +146,40 @@
 
 // let need= (EMA-CA)*3
 // document.write("you  will need ", need, " choclate chip ") 
+
+ 
+
+//table of any number
+// let a= +prompt();
+// document.write("<br>")
+// for (let i=0 ;i<=10 ;i++ ){
+//     document.write(a +"x"+ i +"=" + a*i + "<br>" )
+// }
+// document.write("<br>");
+
+
+//curency convertor
+// let a=+prompt();
+// let total= a*148 + a*25 ;
+// document.write(total)
+
+// let c=10 , d=25;
+// let T1= c*104 + d*28;
+// document.write(T1); 
+
+
+//question 10
+// let v1= +prompt();
+// let S= v1+5 *10 /2
+// document.write(S)
+
+
+//geometry
+  // document.write("<h1>Q12</h1>")
+ // let r=parseFloat(8);
+// let pie=parseFloat(3.14);
+// document.write("Radius is ",r ,"<br>")
+ // document.write("Circumference is ", 2*pie*r,"<br>")
+ // document.write("Area is ", pie*r**2)
+
+ 
